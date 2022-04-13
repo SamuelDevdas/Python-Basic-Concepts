@@ -1,1 +1,1 @@
-#Contains basic Python exercises and solutions worked out by myself as a beginner
+#Word files containing basic Python exercises and solutions worked out by myself as a beginner
